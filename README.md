@@ -1,5 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFccTrbqJRVEA/profile-displaybackgroundimage-shrink_350_1400/B56Zh60rQ6HkAc-/0/1754407290059?e=1757548800&v=beta&t=VhZjkL-YyortbxR39aaWG5kLX4kl3IRG2ynbMfC9dEk" /> 
 <h1 align="center">Hello 👋, I'm Sheikh Shoriful Islam</h1>
+<p>I'm Sk. Shoriful Islam on behalf of Technosys, Member of the Bangladesh Computer Samity (Member ID: 1117). A passionate and results-driven IT Sector with over 25+ years of hands-on experience. Currently serving as a Junior Web developer at Freedom IT Institutions. </p>
 <h3 align="center">A passionate Web Developer | Web Design | WordPress | Web Solutions | Clean Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-shorifultechnosys&label=Profile%20views&color=0e75b6&style=flat" alt="dev-shorifultechnosys" /> </p>
