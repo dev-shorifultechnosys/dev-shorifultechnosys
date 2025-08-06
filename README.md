@@ -1,6 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFccTrbqJRVEA/profile-displaybackgroundimage-shrink_350_1400/B56Zh60rQ6HkAc-/0/1754407290059?e=1757548800&v=beta&t=VhZjkL-YyortbxR39aaWG5kLX4kl3IRG2ynbMfC9dEk" /> 
 <h1 align="center">Hello 👋, I'm Sheikh Shoriful Islam</h1>
-<p>I'm Sk. Shoriful Islam on behalf of Technosys, Member of the Bangladesh Computer Samity (Member ID: 1117). A passionate and results-driven IT Sector with over 25+ years of hands-on experience. Currently serving as a Junior Web developer at Freedom IT Institutions. </p>
 <h3 align="center">A passionate Web Developer | Web Design | WordPress | Web Solutions | Clean Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-shorifultechnosys&label=Profile%20views&color=0e75b6&style=flat" alt="dev-shorifultechnosys" /> </p>
@@ -25,13 +23,13 @@
 
 - 📫 How to reach me **sheikhshorifulislambadsha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sheikh-shoriful-islam-0233235a/](https://www.linkedin.com/in/sheikh-shoriful-islam-0233235a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/](https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/)
 
 - ⚡ Fun fact **a Web Page Can Have Over 10000 Lines of Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sheikh-shoriful-islam-0233235a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheikh-shoriful-islam-0233235a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shoriful.technosys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shoriful.technosys" height="30" width="40" /></a>
 </p>
 
