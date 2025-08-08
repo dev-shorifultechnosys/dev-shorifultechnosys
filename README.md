@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFXp_1_qct1wg/profile-displaybackgroundimage-shrink_350_1400/B56ZiDQdAqHQAc-/0/1754548786497?e=1757548800&v=beta&t=-T_Xvm-UYWzWH1tyK6Y8dSFVyi2j9eycEjc92MDYCYg"</>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFXp_1_qct1wg/profile-displaybackgroundimage-shrink_350_1400/B56ZiDQdAqHQAc-/0/1754548786497?e=1757548800&v=beta&t=-T_Xvm-UYWzWH1tyK6Y8dSFVyi2j9eycEjc92MDYCYg" />
 <h1 align="center">Hello 👋, I'm Sheikh Shoriful Islam</h1>
 <h3 align="center">A passionate Web Developer | Web Design | WordPress | Web Solutions | Clean Code</h3>
 
