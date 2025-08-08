@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFXp_1_qct1wg/profile-displaybackgroundimage-shrink_350_1400/B56ZiDQdAqHQAc-/0/1754548786497?e=1757548800&v=beta&t=-T_Xvm-UYWzWH1tyK6Y8dSFVyi2j9eycEjc92MDYCYg"</>
 <h1 align="center">Hello 👋, I'm Sheikh Shoriful Islam</h1>
 <h3 align="center">A passionate Web Developer | Web Design | WordPress | Web Solutions | Clean Code</h3>
 
@@ -23,13 +24,13 @@
 
 - 📫 How to reach me **sheikhshorifulislambadsha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/](https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/s-shoriful/](https://www.linkedin.com/in/s-shoriful/)
 
 - ⚡ Fun fact **a Web Page Can Have Over 10000 Lines of Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheikh-shoriful-islam-42b293379/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-shoriful/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-shoriful/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shoriful.technosys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shoriful.technosys" height="30" width="40" /></a>
 </p>
 
